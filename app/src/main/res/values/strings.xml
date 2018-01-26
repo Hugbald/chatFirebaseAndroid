@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="name_picker">Choissisez votre nom</string>
+    <string name="Deconnexion">Déconnexion</string>
+    <string name="supprimer">supprimer</string>
+    <string name="Envoyer">Envoyer</string>
+    <string name="continuer">Continuer</string>
+    <string name="modifier">Modifier</string>
+</resources>
